@@ -1,4 +1,5 @@
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  &nbsp;  ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) &nbsp; [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/) 
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) &nbsp; ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) &nbsp; [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 <p align="center">
   <img src="https://github.com/rrousselGit/riverpod/blob/master/resources/icon/Facebook%20Cover%20A.png?raw=true" width="100%" alt="Riverpod" />
 </p>
@@ -37,47 +38,47 @@ To get started with this project, follow these steps :
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/AnonX9/flutter_riverpod_starter.git --branch with_easy_l10n
-    ```
+   ```bash
+   git clone https://github.com/AnonX9/monumental_habits.git --branch with_easy_l10n
+   ```
 
 2. Change into the project directory:
 
-    ```bash
-    cd flutter_riverpod_starter
-    ```
+   ```bash
+   cd monumental_habits
+   ```
 
 3. Install dependencies:
 
-    ```bash
-    flutter pub get
-    ```
+   ```bash
+   flutter pub get
+   ```
 
 4. Generate all rivepod files:
 
-    ```bash
-    dart build_runner build --delete-conflicting-outputs
-    ```
+   ```bash
+   dart build_runner build --delete-conflicting-outputs
+   ```
 
 5. Generate documentation files:
 
-    ```bash
-    flutter pub get
-    dart doc .
-    ```
+   ```bash
+   flutter pub get
+   dart doc .
+   ```
 
-    You should see the following message at the end:
+   You should see the following message at the end:
 
-    ```text
-    Success! Docs generated into /Users/me/projects/my_package/doc/api
-    ```
+   ```text
+   Success! Docs generated into /Users/me/projects/my_package/doc/api
+   ```
 
-    Now, to see the documentation, use the following commands:
+   Now, to see the documentation, use the following commands:
 
-    ```bash
-    dart pub global activate dhttpd
-    dart pub global run dhttpd --path doc/api
-    ```
+   ```bash
+   dart pub global activate dhttpd
+   dart pub global run dhttpd --path doc/api
+   ```
 
 ## Usage
 
@@ -90,34 +91,34 @@ Contributions are always welcome! Or you can simply make this whole project your
 
 1. Fork the repository:
 
-   - Go to [https://github.com/your-username/flutter_riverpod_starter](https://github.com/your-username/flutter_riverpod_starter)
+   - Go to [https://github.com/your-username/monumental_habits](https://github.com/your-username/monumental_habits)
    - Click on the "Fork" button in the top-right corner
    - Choose your GitHub account where you want to fork the repository
 
 2. Clone the forked repository:
 
    ```bash
-   git clone https://github.com/your-username/flutter_riverpod_starter.git
+   git clone https://github.com/your-username/monumental_habits.git
    ```
 
 3. Create a new branch:
 
-    ```bash
-    git checkout -b feature/my-new-feature
-    ```
+   ```bash
+   git checkout -b feature/my-new-feature
+   ```
 
 4. Make your changes and commit them:
 
-    ```bash
-    git add .
-    git commit -m "Add a brief description of your changes"
-    ```
+   ```bash
+   git add .
+   git commit -m "Add a brief description of your changes"
+   ```
 
 5. Push your changes to your forked repository:
 
-    ```bash
-    git push origin feature/my-new-feature
-    ```
+   ```bash
+   git push origin feature/my-new-feature
+   ```
 
 6. Submit your pull request and we could review it together ! ✨
 

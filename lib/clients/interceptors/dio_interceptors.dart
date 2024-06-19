@@ -1,7 +1,7 @@
 import 'dart:convert';
 
 import 'package:dio/dio.dart';
-import 'package:flutter_riverpod_starter/clients/talker.dart';
+import 'package:monumental_habits/clients/talker.dart';
 
 /// A class to handle Dio errors and parse HTTP responses.
 class DioExceptionHandler {

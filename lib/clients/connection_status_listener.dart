@@ -3,8 +3,8 @@ import 'dart:io';
 
 import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_riverpod_starter/clients/talker.dart';
-import 'package:flutter_riverpod_starter/utils/sizer/sizer.dart';
+import 'package:monumental_habits/clients/talker.dart';
+import 'package:monumental_habits/utils/sizer/sizer.dart';
 
 import '../constants.dart';
 

@@ -1,5 +1,5 @@
 import 'package:dio/dio.dart';
-import 'package:flutter_riverpod_starter/clients/interceptors/dio_interceptors.dart';
+import 'package:monumental_habits/clients/interceptors/dio_interceptors.dart';
 import 'package:riverpod_annotation/riverpod_annotation.dart';
 import 'package:talker_dio_logger/talker_dio_logger_interceptor.dart';
 

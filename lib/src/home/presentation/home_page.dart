@@ -1,7 +1,7 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_starter/src/home/presentation/providers/counter_provider.dart';
+import 'package:monumental_habits/src/home/presentation/providers/counter_provider.dart';
 
 class CounterApp extends ConsumerWidget {
   const CounterApp({super.key});

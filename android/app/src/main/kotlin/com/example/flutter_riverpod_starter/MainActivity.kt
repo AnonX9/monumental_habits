@@ -1,4 +1,4 @@
-package com.example.flutter_riverpod_starter
+package com.example.monumental_habits
 
 import io.flutter.embedding.android.FlutterActivity
 

@@ -1,8 +1,8 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_starter/router/router.dart';
-import 'package:flutter_riverpod_starter/utils/sizer/sizer.dart';
+import 'package:monumental_habits/router/router.dart';
+import 'package:monumental_habits/utils/sizer/sizer.dart';
 
 import '../constants.dart';
 import '../theme/dark_theme.dart';

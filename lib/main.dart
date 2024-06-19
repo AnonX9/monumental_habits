@@ -1,9 +1,9 @@
 import 'package:easy_localization/easy_localization.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
-import 'package:flutter_riverpod_starter/clients/local_db.client.dart';
-import 'package:flutter_riverpod_starter/core/app_entry.dart';
-import 'package:flutter_riverpod_starter/logs/app_provider_observer.dart';
+import 'package:monumental_habits/clients/local_db.client.dart';
+import 'package:monumental_habits/core/app_entry.dart';
+import 'package:monumental_habits/logs/app_provider_observer.dart';
 import 'package:stack_trace/stack_trace.dart';
 
 import 'clients/talker.dart';
