@@ -28,5 +28,5 @@ final darkTheme = FlexThemeData.dark(
       .comfortablePlatformDensity, // Visual density configuration
   useMaterial3: true, // Use Material 3 design
   swapLegacyOnMaterial3: true, // Swap legacy styles on Material 3
-  fontFamily: GoogleFonts.ubuntu().fontFamily, // Custom font family
+  fontFamily: 'Manrope', // Custom font family
 );
